@@ -1,6 +1,6 @@
 <img src="https://github.com/hecalderong/Oracle-One-Challenge-Hotel-Alura/blob/8ab45b4e95b1fe1153a430ec0846c0111142a7a7/img/share_image.1647533644.jpg">
 # Oracle-One-Challenge-Hotel-Alura
-<h1 align="left">Sistema de Gestión de Reservas para Sector Hotelero<br>Hotel-Alura</h1>
+<h3 align="left">Sistema de Gestión de Reservas para Sector Hotelero</h3><br><h1>Hotel-Alura</h1>
  <p align="left">
    <img src="https://img.shields.io/badge/Fecha de Carga-2024/04/20-informational">
    <img src="https://img.shields.io/badge/JavaSE-1.8-red">
